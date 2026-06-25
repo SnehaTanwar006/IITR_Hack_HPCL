@@ -1,0 +1,11 @@
+2026-02-08 14:52:07.808 | INFO     | __main__:run_full_pipeline:31 - Initializing pipeline components...
+2026-02-08 14:52:07.816 | INFO     | entity_resolution.entity_matcher:match_company:99 - Matched by name similarity (1.00): Tata Steel Limited → ENT_000001
+2026-02-08 14:52:07.818 | INFO     | entity_resolution.company_profile:build_profile:84 - Built profile for: ENT_000001 - Tata Steel Limited
+2026-02-08 14:52:07.820 | INFO     | entity_resolution.entity_matcher:match_company:99 - Matched by name similarity (1.00): NHAI → ENT_000002
+2026-02-08 14:52:07.828 | INFO     | entity_resolution.company_profile:build_profile:84 - Built profile for: ENT_000002 - NHAI
+2026-02-08 14:52:07.829 | INFO     | product_inference.inference_engine:infer_products:46 - Inferring products from text (length: 396)
+2026-02-08 14:52:07.834 | INFO     | product_inference.inference_engine:infer_products:46 - Inferring products from text (length: 316)
+2026-02-08 14:52:07.837 | INFO     | lead_scoring.lead_scorer:score_lead:61 - Scoring lead...
+2026-02-08 14:52:07.838 | INFO     | lead_scoring.lead_scorer:score_lead:109 - Lead scored: 67/90 - Priority: HIGH
+2026-02-08 14:52:07.841 | INFO     | lead_scoring.lead_scorer:score_lead:61 - Scoring lead...
+2026-02-08 14:52:07.843 | INFO     | lead_scoring.lead_scorer:score_lead:109 - Lead scored: 85/90 - Priority: CRITICAL

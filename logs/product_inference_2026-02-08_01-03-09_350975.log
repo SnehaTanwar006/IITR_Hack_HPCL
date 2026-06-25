@@ -1,0 +1,7 @@
+2026-02-08 01:03:09.353 | INFO     | product_inference.inference_engine:infer_products:46 - Inferring products from text (length: 221)
+2026-02-08 01:03:09.358 | INFO     | product_inference.inference_engine:infer_products:46 - Inferring products from text (length: 189)
+2026-02-08 01:03:09.361 | INFO     | product_inference.inference_engine:infer_products:46 - Inferring products from text (length: 170)
+2026-02-08 01:03:09.364 | INFO     | product_inference.inference_engine:infer_products:46 - Inferring products from text (length: 166)
+2026-02-08 01:03:09.367 | INFO     | product_inference.inference_engine:infer_products:46 - Inferring products from text (length: 151)
+2026-02-08 01:03:09.370 | INFO     | product_inference.inference_engine:infer_products:46 - Inferring products from text (length: 174)
+2026-02-08 01:03:09.373 | INFO     | product_inference.inference_engine:infer_products:46 - Inferring products from text (length: 153)

@@ -1,0 +1,13 @@
+2026-02-08 02:43:51.877 | INFO     | __main__:run_full_pipeline:31 - Initializing pipeline components...
+2026-02-08 02:43:51.887 | INFO     | entity_resolution.entity_matcher:match_company:102 - No match found for: Tata Steel Limited
+2026-02-08 02:43:51.892 | INFO     | entity_resolution.entity_matcher:create_entity:139 - Created new entity: ENT_000001 - Tata Steel Limited
+2026-02-08 02:43:51.893 | INFO     | entity_resolution.company_profile:build_profile:84 - Built profile for: ENT_000001 - Tata Steel Limited
+2026-02-08 02:43:51.894 | INFO     | entity_resolution.entity_matcher:match_company:102 - No match found for: NHAI
+2026-02-08 02:43:51.905 | INFO     | entity_resolution.entity_matcher:create_entity:139 - Created new entity: ENT_000002 - NHAI
+2026-02-08 02:43:51.906 | INFO     | entity_resolution.company_profile:build_profile:84 - Built profile for: ENT_000002 - NHAI
+2026-02-08 02:43:51.907 | INFO     | product_inference.inference_engine:infer_products:46 - Inferring products from text (length: 396)
+2026-02-08 02:43:51.910 | INFO     | product_inference.inference_engine:infer_products:46 - Inferring products from text (length: 316)
+2026-02-08 02:43:51.913 | INFO     | lead_scoring.lead_scorer:score_lead:61 - Scoring lead...
+2026-02-08 02:43:51.913 | INFO     | lead_scoring.lead_scorer:score_lead:109 - Lead scored: 67/90 - Priority: HIGH
+2026-02-08 02:43:51.914 | INFO     | lead_scoring.lead_scorer:score_lead:61 - Scoring lead...
+2026-02-08 02:43:51.915 | INFO     | lead_scoring.lead_scorer:score_lead:109 - Lead scored: 85/90 - Priority: CRITICAL
